@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786463130458,
+  "timestamp": 1786463139369,
   "appVersion": "6.9.25 (2026.07.13)",
   "tables": [
     "characters",
@@ -113,7 +113,9 @@
     "stickerStore": true,
     "quickReplies": true,
     "goingOutState": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true
   },
   "inProgress": true
 }
